@@ -1,0 +1,57 @@
+nmap online:https://hackertarget.com/nmap-online-port-scanner/
+công cụ thu thập lỗ hỏng
+vivus :https://www.exploit-db.com/search
+google :http://shodan.surtri.com/
+tra cứu tên miền
+whois:https://www.whois.com/whois/
+quét virus online
+virus total:https://www.virustotal.com/gui/home/upload
+proxy online
+proxysite:https://www.proxysite.com/
+hide me:https://hide.me/en/proxy
+công cụ mã hóa edit code
+toll sinh viên IT:http://tools.sinhvienit.net/mahoahtml/
+camera online
+camera giao thông vận tải thành phố hồ chí minh:http://giaothong.hochiminhcity.gov.vn/
+camera an ninh:http://www.insecam.org/en/bycountry/VN/?page=6
+phishing
+z-shadow:http://z-shadow.info/
+vài web khác
+tools virus no thanks:https://tools.novirusthanks.org/
+ipfobyip:https://www.infobyip.com/internettools.php
+công cụ theo dõi facebook
+stalkface:https://stalkface.com/en/
+công cụ theo dõi lừa đảo bằng hình ảnh
+Grabify IP:https://grabify.link/image
+Canarytokens:https://canarytokens.org/generate
+web kiểm tra phishing
+namecheck:https://www.namecheck.com/phishing-check/
+web kiểm tra kiến thức phishing
+phishing with google:https://phishingquiz.withgoogle.com/?hl=en
+các mục lưu trữ thông tin có sẵn
+free gmail and password
+ext:sql intext:@gmail.com intext:password or ext:sql intext:@yahoo.com intext:password
+code công khai gủi tin nhắn đến số điện thoại ảo có trên web
+https://www.receivesmsonline.net/
+số điện thoại ảo
+https://www.makeuseof.com/tag/10-sites-to-send-free-text-messages-to-cell-phones-sms/
+https://receive-sms.com/
+web học hacker
+anonyviet:http://anonyviet.com
+hacking-tutorial:https://www.hacking-tutorial.com/
+web kiểm tra trình độ hakcer
+Hack This:https://www.hackthis.co.uk/
+Hack This Site!:https://www.hackthissite.org/
+more
+https://www.checkmarx.com/2015/04/16/15-vulnerable-sites-to-legally-practice-your-hacking-skills/
+tìm chủ nhân số điện thoại
+https://www.anywho.com/reverse-lookup
+kiểm tra sức chịu đựng Website
+StressThem:https://www.stressthem.to/
+website tổng hợp các tool quang trọng
+https://osintframework.com/
+tìm id card
+https://trust.dot.state.wi.us/rico/customerSearchPage.do
+Công cụ phá Password Winrar
+https://www.password-online.com
+https://www.lostmypass.com/file-types/
